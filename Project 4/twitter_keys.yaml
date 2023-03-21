@@ -1,0 +1,8 @@
+search_tweets_api:
+  account_type: premium
+  endpoint: "http://127.0.0.1:5000/"
+  consumer_key: "NHVjUVB6Z05QcHMweG1KT24tMTk6MTpjaQ"
+  consumer_secret: "d60rawgq2-PSYEVOPiWZXcOd3YV6oaOXnR2hIYK8KSFzxE0O_c"
+  access_token: "1612235080054837249-lAVXgzb9S9s027Pdqlwoif5O7wTnZP"
+  access_token_secret: "nTNhZ4SwIVjHHCAzQ1PRTd6VXPXrJFT2NEbb42t57yg9o"
+  bearer_token: "AAAAAAAAAAAAAAAAAAAAAKIQmQEAAAAArVRjbE4%2BTvJyVR%2F86izvaM0Gh8w%3DpTABL8ggB4RCF0tOEAmuJNuApCwIxqUK5sWvAbQcZl2uunC7em"
